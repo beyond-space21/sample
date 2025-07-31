@@ -1,5 +1,6 @@
 git clone
 git pull
+# if got merge conflict, resolve in vscode
 
 git add
 git commit
@@ -8,4 +9,3 @@ git push
 git stash
 git stash pop
 
-Branches
